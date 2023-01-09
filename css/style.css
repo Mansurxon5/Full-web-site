@@ -1,0 +1,73 @@
+.login-container .login-contain .login-left, .login-container-up .login-contain .login-left {
+  background: url(/image/login/Rectangle\ 33.png) no-repeat;
+  background-size: cover;
+  border-radius: 20px 0 0 20px;
+}
+.login-container .login-contain .login-right, .login-container-up .login-contain .login-right {
+  border-radius: 0 20px 20px 0;
+}
+
+.navbar .form-container-navbar .input-search-box .input-search input {
+  border: 0.987223px solid #454D4A;
+  border-radius: 4.93611px;
+}
+
+.img-container-box .img-boxxing-top .btn button {
+  background: url(/image/navbar/btn\ background\ image.png) no-repeat center;
+  background-size: cover;
+  color: #454D4A;
+}
+
+.starting-wraper-container .starting-wraper-box .rock-tour-container .rock-tour-top .tour-box {
+  background: -webkit-gradient(linear, left top, right top, color-stop(47.41%, #000000), color-stop(97.41%, rgba(217, 217, 217, 0)));
+  background: linear-gradient(90deg, #000000 47.41%, rgba(217, 217, 217, 0) 97.41%);
+  border-radius: 5.02799px;
+}
+.starting-wraper-container .starting-wraper-box .rock-tour-container .rock-tour-bottom .tour-box {
+  background: -webkit-gradient(linear, left top, right top, color-stop(47.41%, #084450), color-stop(97.41%, rgba(0, 0, 0, 0.14)));
+  background: linear-gradient(90deg, #084450 47.41%, rgba(0, 0, 0, 0.14) 97.41%);
+  border-radius: 5.02799px;
+}
+.starting-wraper-container .starting-wraper-box .starting-container-core .starting-core-comp {
+  background: radial-gradient(124.14% 546.57% at 27.73% 138.24%, rgba(189, 255, 0, 0.41) 14.37%, #79E7FF 81.56%);
+  border: 1.00278px solid #000000;
+  border-radius: 5.01389px;
+}
+
+.deal-shopping-container .deal-shopping-box .deal-shopping-nav .deal-active-box .deal-active {
+  background: url(/image/navbar/btn\ background\ image.png) no-repeat center;
+  background-size: cover;
+}
+.deal-shopping-container .deal-shopping-box .deal-shopping-header .deal-shopping-main .deal-shopping-item {
+  cursor: pointer;
+}
+.deal-shopping-container .deal-shopping-box .deal-shopping-header .deal-shopping-main .deal-shopping-item .contine-shopping {
+  padding: 5px;
+}
+.deal-shopping-container .deal-shopping-box .deal-shopping-header .deal-shopping-main .deal-shopping-item .contine-shopping:hover {
+  background: linear-gradient(178.84deg, #FFF4BB 2.55%, rgba(255, 242, 174, 0) 96.05%);
+  border-radius: 5px;
+}
+
+.your-releated-items-container .your-releated-items .your-releated-nav .deal-active-box .deal-active {
+  background: url(/image/navbar/btn\ background\ image.png) no-repeat center;
+  background-size: cover;
+}
+
+.televisions-container-group .televisions-container .televisions-nav .deal-active-box .deal-active {
+  background: url(/image/navbar/btn\ background\ image.png) no-repeat center;
+  background-size: cover;
+}
+
+.logo-branding-container .logo-branding .logo-branding-nav .deal-active-box .deal-active {
+  background: url(/image/navbar/btn\ background\ image.png) no-repeat center;
+  background-size: cover;
+}
+.logo-branding-container .logo-branding .logo-branding-header .logo-branding-main .logo-branding-item {
+  row-gap: 0px;
+}
+
+.headphone-container .headphone-contain .headphone-item:first-child {
+  background: url(/image/footer-image/pexels-daniel-reche-3721941\ 1.png) no-repeat;
+  background-size: cover;
+}
